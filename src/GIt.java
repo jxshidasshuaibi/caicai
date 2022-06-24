@@ -4,6 +4,6 @@ public class GIt {
         double b=10;
         System.out.println(a+b);
         System.out.println("hello dashuaibi:jx");
-        System.out.println("来自hot-fix分支的修改");
+        System.out.println("Do not use Chinese");
     }
 }
